@@ -1,1 +1,0 @@
-# customer-segmentation-sql-analytics
